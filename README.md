@@ -4,7 +4,6 @@ I'm [PaulieB](https://github.com/PaulieB14), a devoted member of the **Graph Adv
 
 <img src="https://tse1.mm.bing.net/th?id=OIP._2kOmZVw6ZwYQZ0QOyEYcgHaEK&pid=Api&P=0&w=300&h=300" alt="PaulieB's Programming Avatar" height="150px">
 
-
 ## 🌍 **Graph Advocates DAO & Graphtronauts Community**
 As an integral part of the Graphtronauts community, I immerse myself in the world of the Graph Protocol, seeking to understand, contribute, and propagate the values and technologies inherent to it.
 
@@ -22,11 +21,10 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 
 ![](https://komarev.com/ghpvc/?username=PaulieB14&color=blue)
 
-
 ## 📊 **GitHub Stats**
 ![PaulieB's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulieB14&show_icons=true&theme=tokyonight)
 
-![Alt Text]([URL_OF_THE_GIF](https://media.tenor.com/OjV7dE23gmcAAAAC/thegraph-graph.gif))
-
+![The Graph](https://media.tenor.com/OjV7dE23gmcAAAAC/thegraph-graph.gif)
 
 ### 🌟 **Let's build the decentralized future together!**
+
