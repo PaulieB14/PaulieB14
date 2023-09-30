@@ -24,7 +24,8 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 ## 📊 **GitHub Stats**
 ![PaulieB's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulieB14&show_icons=true&theme=tokyonight)
 
-![The Graph](https://media.tenor.com/OjV7dE23gmcAAAAC/thegraph-graph.gif)
+![Sample GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 
 ### 🌟 **Let's build the decentralized future together!**
 
