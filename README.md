@@ -26,7 +26,8 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 ## 📊 **GitHub Stats**
 ![PaulieB's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulieB14&show_icons=true&theme=tokyonight)
 
-[![PaulieB's github activity graph](https://activity-graph.herokuapp.com/graph?username=PaulieB14&theme=xcode)](https://git.io/PaulieB14)
+[![PaulieB's github activity graph](https://activity-graph.herokuapp.com/graph?username=PaulieB14&theme=xcode)](LINK_TO_BE_REDIRECTED_TO_WHEN_CLICKED)
+
 
 
 ### 🌟 **Let's build the decentralized future together!**
