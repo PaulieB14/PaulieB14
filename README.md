@@ -20,7 +20,8 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 - 🐦 [Twitter](https://twitter.com/PaulBarba12)
 - 📘 [Lenster](https://hey.xyz/u/paulieb)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=Paulieb14&color=blue)
+
 
 
 ## 📊 **GitHub Stats**
