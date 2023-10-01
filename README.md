@@ -26,7 +26,6 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 <a href="https://github.com/PaulieB14" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-
 ![](https://komarev.com/ghpvc/?username=PaulieB14&color=blue)
 
 ## 📊 **GitHub Stats**
@@ -34,6 +33,4 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 
 ![Sample GIF](https://media.tenor.com/vQbbmxRwa4AAAAAM/grt-zoner-grt.gif)
 
-
 ### 🌟 **Let's build the decentralized future together!**
-
