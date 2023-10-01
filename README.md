@@ -16,15 +16,14 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 - **Pinax Technical Writer**: Recently, embraced the role of a technical writer for Pinax, extending my efforts to enhance the understanding and adoption of blockchain and graph-based technologies.
 
 ## 🔗 **Connect With Me**
-<p>
+## 🔗 **Connect With Me**
+<div style="display: flex; align-items: center; gap: 10px;">
 <a href="https://twitter.com/PaulBarba12" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-
 <a href="https://medium.com/@paulieb.eth" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
-
 <a href="https://hey.xyz/u/paulieb" target="_blank"><img alt="Lens" src="https://img.shields.io/badge/Lens-%230A74DA.svg?&style=for-the-badge&logo=lens&logoColor=white" /></a> 
-
 <a href="https://github.com/PaulieB14" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+</div>
+
 
 ![](https://komarev.com/ghpvc/?username=PaulieB14&color=blue)
 
