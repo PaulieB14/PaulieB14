@@ -23,6 +23,8 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 <a href="https://hey.xyz/u/paulieb" target="_blank"><img alt="Lens" src="https://img.shields.io/badge/Lens-%230A74DA.svg?&style=for-the-badge&logo=lens&logoColor=white" /></a> 
 <a href="https://github.com/PaulieB14" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
+<br>
+<br>
 
 
 ![](https://komarev.com/ghpvc/?username=PaulieB14&color=blue)
