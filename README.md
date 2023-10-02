@@ -8,19 +8,15 @@ I'm [PaulieB](https://github.com/PaulieB14), a devoted member of the **Graph Adv
 As an integral part of the Graphtronauts community, I immerse myself in the world of the Graph Protocol, seeking to understand, contribute, and propagate the values and technologies inherent to it.
 
 ### 📝 **Blogging & Writing**
-<div style="display: flex; align-items: center; background-color: #f0f0f0; padding: 5px; border-radius: 5px;">
-  <a href="https://medium.com/@OG-Graphtronauts" target="_blank" style="text-decoration: none; color: #000000; margin-right: 10px;">
-    📚 Graphtronauts Blog
-  </a>
+<div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://medium.com/@paulieb.eth" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo" />
   </a>
+  <a href="https://medium.com/@OG-Graphtronauts" target="_blank" style="text-decoration: none; color: #000;">
+    📚 Graphtronauts Blog
+  </a>
 </div>
 - Providing insights and spreading knowledge about Graph Protocol through well-crafted articles and posts.
-
-
-
-
 
 
 ### 🛠 **Technical Contributions**
