@@ -11,6 +11,18 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 📚 [Graphtronauts Blog](https://medium.com/@OG-Graphtronauts)
 - Providing insights and spreading knowledge about Graph Protocol through well-crafted articles and posts.
 
+### 📝 **Blogging & Writing**
+📚 [Graphtronauts Blog](https://medium.com/@OG-Graphtronauts)
+- Providing insights and spreading knowledge about Graph Protocol through well-crafted articles and posts.
+
+<div style="background-color: #000000; padding: 10px; border-radius: 8px; margin-top: 10px;">
+  <a href="https://medium.com/@paulieb.eth" target="_blank" style="color: #ffffff; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo" />
+    Dive deeper! Explore more of my articles and insights on Graph Protocol at my Medium Blog!
+  </a>
+</div>
+
+
 ### 🛠 **Technical Contributions**
 - **Subgraph Documentation**: Contributing to comprehensive and accurate documentation for various projects within the Graph Protocol ecosystem.
 - **Pinax Technical Writer**: Recently, embraced the role of a technical writer for Pinax, extending my efforts to enhance the understanding and adoption of blockchain and graph-based technologies.
