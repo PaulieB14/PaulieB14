@@ -14,9 +14,10 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 ### 📝 **Blogging & Writing**
 [📚 Graphtronauts Blog](https://medium.com/@OG-Graphtronauts) 
 <a href="https://medium.com/@paulieb.eth" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo" style="vertical-align: text-bottom;" />
 </a>
 - Providing insights and spreading knowledge about Graph Protocol through well-crafted articles and posts.
+
 
 
 
