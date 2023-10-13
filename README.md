@@ -13,9 +13,10 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 ### 📝 **Blogging & Writing**
 <div style="display: flex; align-items: center; gap: 10px; padding: 5px; border-radius: 5px;">
   <a href="https://medium.com/@paulieb.eth" target="_blank">
-    <img src="https://img.shields.io/badge/PaulieB's%20Medium%20Blog-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo" />
+    <img src="https://img.shields.io/badge/PaulieB's%20Medium%20Blog-%23232323.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo" />
   </a>
 </div>
+
 
 - Providing insights and spreading knowledge about Graph Protocol through well-crafted articles and posts.
 
@@ -26,9 +27,10 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 - **Pinax Technical Writer**: Recently, embraced the role of a technical writer for Pinax, extending my efforts to enhance the understanding and adoption of blockchain and graph-based technologies.
 <div style="display: flex; align-items: center; gap: 10px; padding: 5px; border-radius: 5px; margin-top: 10px;">
   <a href="https://blog.pinax.network/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinax%20Blog-%23117AC9.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Logo" />
+    <img src="https://img.shields.io/badge/Pinax%20Blog-%23232323.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Logo" />
   </a>
 </div>
+
 
 
 ## 🔗 **Connect With Me**
