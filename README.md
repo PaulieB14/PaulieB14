@@ -24,14 +24,11 @@ As an integral part of the Graphtronauts community, I immerse myself in the worl
 - **Subgraph Documentation**: Contributing to comprehensive and accurate documentation for various projects within the Graph Protocol ecosystem.
 
 - **Pinax Technical Writer**: Recently, embraced the role of a technical writer for Pinax, extending my efforts to enhance the understanding and adoption of blockchain and graph-based technologies.
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://blog.pinax.network/" target="_blank">
-      <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Logo" />
-    </a>
-    <a href="https://blog.pinax.network/" target="_blank" style="text-decoration: none; color: #000;">
-      📚 Pinax Blog
-    </a>
-  </div>
+<div style="display: flex; align-items: center; gap: 10px; padding: 5px; border-radius: 5px; margin-top: 10px;">
+  <a href="https://blog.pinax.network/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinax%20Blog-%23117AC9.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Logo" />
+  </a>
+</div>
 
 
 ## 🔗 **Connect With Me**
