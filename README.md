@@ -1,6 +1,6 @@
 # Hello, World! 🚀
 
-I'm [PaulieB](https://github.com/PaulieB14), a devoted member of the **Graph Advocates DAO** and a proud Graphtronaut! 🌐🌟 My journey is fueled by a passion for crypto and a commitment to advancing decentralized technologies.
+I'm [PaulieB](https://linktr.ee/PaulieB.eth), a devoted member of the **Graph Advocates DAO** and a proud Graphtronaut! 🌐🌟 My journey is fueled by a passion for crypto and a commitment to advancing decentralized technologies.
 
 <img src="https://wallpapersmug.com/download/1680x1050/792013/earth-planet-space-moon-sunrise.jpg" alt="PaulieB's Programming Avatar" width="100%">
 
