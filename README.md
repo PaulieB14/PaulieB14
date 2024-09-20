@@ -64,3 +64,5 @@ I'm always excited to engage with others who share a love for **blockchain** and
 ---
 
 ✨ Let's build a more decentralized world together! ✨
+![Graph Protocol Solar Image](https://github.com/your-username/your-repository/blob/main/path-to-image.jpg)
+
