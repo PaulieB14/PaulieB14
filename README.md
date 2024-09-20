@@ -1,6 +1,6 @@
 # 🌐 Hello, World! 🚀
 
-### I'm [PaulieB](https://linktr.ee/PaulieB.eth), a proud **Graphtronaut** and dedicated member of the **Graph Advocates DAO**! 🛰️💻
+### I'm [PaulieB](https://linktr.ee/PaulieB.eth), a proud **Graphtronaut** and dedicated member of the **Graph Community**! 🛰️💻
 ---
 My journey through the vast world of **decentralized technologies** is fueled by a deep passion for **crypto** and an unwavering commitment to advancing **Web3 innovations**. Join me as we explore the future of blockchain together!
 
@@ -8,7 +8,7 @@ My journey through the vast world of **decentralized technologies** is fueled by
   <img src="https://wallpapersmug.com/download/1680x1050/792013/earth-planet-space-moon-sunrise.jpg" alt="PaulieB's Avatar" width="80%" />
 </div>
 
-## 🌟 **Graph Advocates DAO & Graphtronauts Community**
+## 🌟 **Graphtronauts Community**
 
 As a passionate advocate, I'm actively contributing to the growth of the **Graph Protocol** ecosystem. Whether it’s through technical documentation or community engagement, my goal is to help others discover the immense potential of decentralized data.
 
@@ -16,7 +16,7 @@ As a passionate advocate, I'm actively contributing to the growth of the **Graph
 
 ### 📝 **Writing & Thought Leadership** 
 
-📖 I regularly share insights, tutorials, and perspectives on the blockchain world via my **[Medium Blog](https://medium.com/@paulieb.eth)**, diving into topics like **The Graph Protocol**, **subgraphs**, and **Web3 innovations**.
+📖 I try to share insights, tutorials, and perspectives on the blockchain world via my **[Medium Blog](https://medium.com/@paulieb.eth)** and at Pinax, diving into topics like **The Graph Protocol** and **Web3 innovations**.
 
 <div align="center">
   <a href="https://medium.com/@paulieb.eth" target="_blank">
