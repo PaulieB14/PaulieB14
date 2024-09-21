@@ -10,7 +10,7 @@ My journey through the vast world of **decentralized technologies** is fueled by
 
 ## 🌟 **Graphtronauts Community**
 
-As a passionate advocate, I'm actively contributing to the growth of the **Graph Protocol** ecosystem. Whether it’s through technical documentation or community engagement, my goal is to help others discover the immense potential of decentralized data.
+As a passionate advocate, I'm actively contributing to the growth of the **Graph Protocol** ecosystem. Whether it’s through technical documentation or community engagement, my goal is to help others discover the immense potential of decentralized data. Check out Graphtronauts [Linkedtree](https://linktr.ee/graphtronauts)
 
 ---
 
