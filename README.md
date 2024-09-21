@@ -42,26 +42,7 @@ As a passionate advocate, I'm actively contributing to the growth of the **Graph
 
 ---
 
-## 💬 **Let’s Connect** 
 
-I'm always excited to engage with others who share a love for **blockchain** and **decentralization**! Feel free to connect with me on any of these platforms:
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://twitter.com/PaulBarba12" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://medium.com/@paulieb.eth" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%23121212.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://hey.xyz/u/paulieb" target="_blank">
-    <img src="https://img.shields.io/badge/Lens-%230A74DA.svg?&style=for-the-badge&logo=lens&logoColor=white" alt="Lens" />
-  </a>
-  <a href="https://github.com/PaulieB14" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121212.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
 
 ✨ Let's build a more decentralized world together! ✨
 <div align="center">
