@@ -6,10 +6,6 @@
 ![Typing Graphtronauts](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Graphtronauts)
 
 
-
----
-
-## 🌌 Graphtronauts Forever  
 I’m a proud **Graphtronaut**, working to grow The Graph ecosystem and help people discover how powerful decentralized data can be.
 
 > 📡 If you vibe with subgraphs, indexing, and the data layer of Web3 — we’re already friends.
