@@ -1,11 +1,12 @@
-#Hey, I’m [PaulieB](https://linktr.ee/PaulieB.eth)  
+# Hey, I’m [PaulieB](https://linktr.ee/PaulieB.eth)  
 
 🛰️ Graphtronaut | 🧠 Web3 Writer | ⚙️ Technical Contributor  
 *Exploring the edges of decentralized data and pushing the limits of The Graph Protocol.*
 
-<div align="center">
-  <img src="https://wallpapersmug.com/download/1680x1050/792013/earth-planet-space-moon-sunrise.jpg" alt="Space Banner" width="100%" />
-</div>
+<p align="center">
+  <img src="https://wallpapersmug.com/download/1680x1050/792013/earth-planet-space-moon-sunrise.jpg" alt="Space Banner" width="80%" />
+</p>
+
 
 ---
 
