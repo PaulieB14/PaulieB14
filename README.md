@@ -50,5 +50,6 @@ I work on docs, tools, and guides that help others use:
 Let’s keep pushing the boundaries of what’s possible in Web3 — together.
 
 <div align="center">
-  <img src="https://pbs.twimg.com/media/GKqwOi8XIAAW9j3?format=jpg&name=small" alt="Graph Protocol Image" width="75%" />
+  <img src="![Working Hard](https://media.tenor.com/TrjIwACo0YgAAAAC/programmer-working.gif)
+" alt="Graph Protocol Image" width="75%" />
 </div>
