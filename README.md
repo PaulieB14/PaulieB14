@@ -4,7 +4,8 @@
 *Exploring the edges of decentralized data and pushing the limits of The Graph Protocol.*
 
 <p align="center">
-  <img src="https://wallpapersmug.com/download/1680x1050/792013/earth-planet-space-moon-sunrise.jpg" alt="Space Banner" width="80%" />
+  <iframe height="400" style="width: 100%;" scrolling="no" title="Animated Earth Background" src="https://codepen.io/P1N2O/embed/ExvwPYB?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  </iframe>
 </p>
 
 
