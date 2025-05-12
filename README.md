@@ -3,10 +3,8 @@
 🛰️ Graphtronaut | 🧠 Web3 Writer | ⚙️ Technical Contributor  
 *Exploring the edges of decentralized data and pushing the limits of The Graph Protocol.*
 
-<p align="center">
-  <iframe height="400" style="width: 100%;" scrolling="no" title="Animated Earth Background" src="https://codepen.io/P1N2O/embed/ExvwPYB?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  </iframe>
-</p>
+![Animated Banner](https://media.giphy.com/media/8UG0kH1P3I6BDV1Fcx/giphy.gif)
+
 
 
 ---
