@@ -1,54 +1,54 @@
-# 🌐 Hello, World! 🚀
+#Hey, I’m [PaulieB](https://linktr.ee/PaulieB.eth)  
 
-### I'm [PaulieB](https://linktr.ee/PaulieB.eth), a proud **Graphtronaut** and dedicated member of the **Graph Community**! 🛰️💻
----
-My journey through the vast world of **decentralized technologies** is fueled by a deep passion for **crypto** and an unwavering commitment to advancing **Web3 innovations**. Join me as we explore the future of blockchain together!
+🛰️ Graphtronaut | 🧠 Web3 Writer | ⚙️ Technical Contributor  
+*Exploring the edges of decentralized data and pushing the limits of The Graph Protocol.*
 
 <div align="center">
-  <img src="https://wallpapersmug.com/download/1680x1050/792013/earth-planet-space-moon-sunrise.jpg" alt="PaulieB's Avatar" width="80%" />
+  <img src="https://wallpapersmug.com/download/1680x1050/792013/earth-planet-space-moon-sunrise.jpg" alt="Space Banner" width="100%" />
 </div>
-
-## 🌟 **Graphtronauts Community**
-
-As a passionate advocate, I'm actively contributing to the growth of the **Graph Protocol** ecosystem. Whether it’s through technical documentation or community engagement, my goal is to help others discover the immense potential of decentralized data. Check out Graphtronauts [Linkedtree](https://linktr.ee/graphtronauts)
 
 ---
 
-### 📝 **Writing & Thought Leadership** 
+## 🌌 Graphtronauts Forever  
+I’m a proud **Graphtronaut**, working to grow The Graph ecosystem and help people discover how powerful decentralized data can be.
 
-📖 I try to share insights, tutorials, and perspectives on the blockchain world via my **[Medium Blog](https://medium.com/@paulieb.eth)** and at Pinax, diving into topics like **The Graph Protocol** and **Web3 innovations**.
+> 📡 If you vibe with subgraphs, indexing, and the data layer of Web3 — we’re already friends.
+
+🔗 [Join the Graphtronauts](https://linktr.ee/graphtronauts)
+
+---
+
+## ✍️ What I Write  
+I break down big ideas in blockchain and tech — and make them make sense.  
+Catch my latest:
+
+- [📚 Blog on Medium](https://medium.com/@paulieb.eth)
+- [🧭 Deep dives at Pinax](https://blog.pinax.network/)
 
 <div align="center">
   <a href="https://medium.com/@paulieb.eth" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Blog-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="PaulieB's Medium Blog" />
+    <img src="https://img.shields.io/badge/Read My-Medium Blog-black?style=for-the-badge&logo=medium" />
   </a>
-</div>
-
----
-
-### 🛠️ **Technical Contributions** 
-
-🔧 My role as a **Technical Writer** includes contributions to both **The Graph** and **Pinax**, focused on making blockchain tech more accessible to everyone:
-
-- **Subgraph Documentation**: Ensuring thorough and understandable documentation for various Graph Protocol projects.
-  
-- **Pinax**: Creating comprehensive guides that facilitate easier adoption of graph-based technologies. Check out the latest posts on the **[Pinax Blog](https://blog.pinax.network/)**:
-
-<div align="center">
   <a href="https://blog.pinax.network/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinax-Blog-%23121212.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="Pinax Blog" />
+    <img src="https://img.shields.io/badge/Explore-Pinax Blog-blue?style=for-the-badge&logo=wordpress" />
   </a>
 </div>
 
 ---
 
+## 🛠️ What I Build & Support  
+I work on docs, tools, and guides that help others use:
 
+- 🔷 **The Graph** — Subgraph docs, technical content, and indexing magic  
+- 🛠️ **Pinax** — Infrastructure insights and tutorials built for devs and data heads
 
-✨ Let's build a more decentralized world together! ✨
+> My mission: make blockchain feel *simple*, not scary.
+
+---
+
+## 🌍 Let's Build the Future  
+Let’s keep pushing the boundaries of what’s possible in Web3 — together.
+
 <div align="center">
-  <img src="https://pbs.twimg.com/media/GKqwOi8XIAAW9j3?format=jpg&name=small" alt="Graph Protocol Solar Image" />
+  <img src="https://pbs.twimg.com/media/GKqwOi8XIAAW9j3?format=jpg&name=small" alt="Graph Protocol Image" width="75%" />
 </div>
-
-
-
-
