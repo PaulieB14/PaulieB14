@@ -3,7 +3,8 @@
 🛰️ Graphtronaut | 🧠 Web3 Writer | ⚙️ Technical Contributor  
 *Exploring the edges of decentralized data and pushing the limits of The Graph Protocol.*
 
-![Animated Banner](https://media.giphy.com/media/8UG0kH1P3I6BDV1Fcx/giphy.gif)
+![Graph Hero](https://pbs.twimg.com/media/GKqwOi8XIAAW9j3?format=jpg&name=large)
+
 
 
 
