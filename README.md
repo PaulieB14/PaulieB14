@@ -49,7 +49,6 @@ I work on docs, tools, and guides that help others use:
 ## 🌍 Let's Build the Future  
 Let’s keep pushing the boundaries of what’s possible in Web3 — together.
 
-<div align="center">
-  <img src="https://media.tenor.com/TrjIwACo0YgAAAAC/programmer-working.gif" alt="Working Hard on Web3" width="400" />
-</div>
+![Working Hard](https://media.tenor.com/TrjIwACo0YgAAAAC/programmer-working.gif)
+
 
