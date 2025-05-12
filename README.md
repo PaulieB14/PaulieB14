@@ -3,7 +3,8 @@
 🛰️ Graphtronaut | 🧠 Web3 Writer | ⚙️ Technical Contributor  
 *Exploring the edges of decentralized data and pushing the limits of The Graph Protocol.*
 
-![Animated Space Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Typing Graphtronauts](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Graphtronauts)
+
 
 
 ---
