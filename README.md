@@ -36,7 +36,6 @@ Proud **Graphtronaut** helping builders explore subgraphs, curate data, and unlo
 ## ✍️ Writing
 I turn complex blockchain ideas into stories that make sense.
 
-- 📝 **Medium:** https://medium.com/@paulieb.eth
 
 <div align="center">
   <a href="https://medium.com/@paulieb.eth">
