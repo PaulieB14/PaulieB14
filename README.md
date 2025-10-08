@@ -18,7 +18,7 @@ Exploring the edges of decentralized data and pushing the limits of **The Graph 
 <a href="https://thegraph.com/">
   <img alt="The Graph" src="https://img.shields.io/badge/The%20Graph-Protocol-111111?style=for-the-badge&logo=thegraph&logoColor=white">
 </a>
-<a href="[https://twitter.com/graphtronauts](https://x.com/graphtronauts_c)">
+<a href="https://x.com/graphtronauts_c">
   <img alt="@graphtronauts on X" src="https://img.shields.io/badge/follow-@graphtronauts-00F0FF?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
