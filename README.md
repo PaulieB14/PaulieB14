@@ -53,15 +53,32 @@ I turn complex blockchain ideas into stories that make sense.
 
 ---
 
-## 📊 GitHub Stats (auto-updating)
+## 🚀 Graphtronaut Mission Stats
 
 <div align="center">
 
-<!-- Replace username if needed -->
-<img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=PaulieB14&show_icons=true&theme=transparent&title_color=00F0FF&text_color=9f9f9f&icon_color=00F0FF&hide_border=true">
-<img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulieB14&layout=compact&theme=transparent&title_color=00F0FF&text_color=9f9f9f&hide_border=true">
+<!-- Profile overview / activity timeline -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulieB14&theme=tokyonight"
+  alt="Graphtronaut Profile Details"
+/>
+
+<br /><br />
+
+<!-- Stats + languages side by side -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaulieB14&theme=tokyonight"
+  alt="Graphtronaut Stats"
+  height="165"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PaulieB14&theme=tokyonight"
+  alt="Top Languages by Commit"
+  height="165"
+/>
 
 </div>
+
 
 ---
 
