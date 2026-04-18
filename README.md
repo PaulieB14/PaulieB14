@@ -75,8 +75,4 @@ Proud **Graphtronaut** helping builders explore subgraphs, curate data, and unlo
 We’re mapping the world’s information — one query at a time.  
 If you care about **indexing**, **AI + data**, and **open protocols**, you’re already part of the crew.
 
-<div align="center">
-  <a href="https://linktr.ee/PaulieB.eth">
-    <img alt="Linktree" src="https://img.shields.io/badge/Follow%20Me-Linktree-00F0FF?style=for-the-badge&logo=linktree&logoColor=white">
-  </a>
-</div>
+
