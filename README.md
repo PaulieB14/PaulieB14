@@ -3,7 +3,7 @@
 
 # Hey, I’m <a href="https://linktr.ee/PaulieB.eth" target="_blank">PaulieB</a> 🛰️
 
-**Graphtronaut 🚀 | Web3 Writer 🧠 | Technical Contributor ⚙️**  
+
 Exploring the edges of decentralized data and pushing the limits of **The Graph Protocol**.
 
 <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=580&lines=Graphtronauts+Assemble!;Indexing+the+Future;Decentralized+Data+Never+Sleeps">
