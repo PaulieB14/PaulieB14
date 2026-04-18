@@ -31,17 +31,6 @@ Proud **Graphtronaut** helping builders explore subgraphs, curate data, and unlo
 
 > 📡 If you vibe with subgraphs, indexing, and the open data layer of Web3 — we’re already friends.
 
----
-
-## ✍️ Writing
-I turn complex blockchain ideas into stories that make sense.
-
-
-<div align="center">
-  <a href="https://medium.com/@paulieb.eth">
-    <img alt="Medium badge" src="https://img.shields.io/badge/Read%20My-Medium%20Blog-black?style=for-the-badge&logo=medium">
-  </a>
-</div>
 
 ---
 
